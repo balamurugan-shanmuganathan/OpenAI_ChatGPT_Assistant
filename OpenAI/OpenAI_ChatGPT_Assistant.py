@@ -1,7 +1,7 @@
 import openai
 import gradio
 
-openai.api_key = "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"
+openai.api_key = "sk-####"
 
 messages = [{"role": "system", "content": "Chat GPT"}]
 
